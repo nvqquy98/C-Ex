@@ -1,0 +1,13 @@
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\bin\Debug\netcoreapp3.1\Event.exe
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\bin\Debug\netcoreapp3.1\Event.dll
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\bin\Debug\netcoreapp3.1\Event.pdb
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\obj\Debug\netcoreapp3.1\Event.csprojAssemblyReference.cache
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\obj\Debug\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\obj\Debug\netcoreapp3.1\Event.dll
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\obj\Debug\netcoreapp3.1\Event.pdb
+C:\Users\Vanquy\source\repos\ConsoleApp1\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache
